@@ -1,0 +1,24 @@
+# Файлы окружения
+src/.env
+src/.env_local
+src/.env_prod
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+.venv/
+
+# Файлы/папки IDE
+.idea/
+
+
+# Файлы с логами
+*.log
+src/logs/
+
+
+#Временные файлы/мусор
+trash/
+

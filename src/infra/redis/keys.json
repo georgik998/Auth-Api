@@ -1,0 +1,13 @@
+{
+  "code={uuid}": {
+    "phone_number": "phone_number",
+    "email": "email",
+    "password": "password",
+    "sex": "sex",
+    "full_name": "full_name",
+    "email_code": "email_code"
+  },
+  "reset_code={reset_password_code_key}": {
+    "user_id": "user_id"
+  }
+}
